@@ -6,10 +6,10 @@ from os.path import isfile, join
 advanced_names = []
 intermediate_names = []
 
-def formatFile(strings):
+def formatFile(strings, team):
     final = []
 
-    final.append('# Leaderboard\n')
+    final.append(f'# {team} Leaderboard\n')
     final.append('|Name|Score|\n')
     final.append('|----|-----|\n')
 
@@ -45,7 +45,7 @@ def calculateScore(team):
 
     with open(f'../{team}-leaderboard.md', 'w') as new:
         sorted_scores = sorted(new_lines, key=getScore, reverse=True)
-        final_file = formatFile(sorted_scores)
+        final_file = formatFile(sorted_scores, team.title())
         new.write(''.join(final_file))
         new.close()
 
