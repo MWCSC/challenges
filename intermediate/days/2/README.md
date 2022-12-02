@@ -26,10 +26,12 @@ Create a program that finds the characters that are the same between the 1st pas
 ## Expected output format:
 
 - Output should only contain the answer. No other values.
-- 
+
 Example:
+
+If password 1 is f9u3mko, password 2 is 9o3uf, and password 3 is ybuo3jf, the expected output is:
 
 ```py
 fu3o
 ```
-
+The output is in ordered by the order of which the similar characters appear in passowrd 1. Output must be the SAME characters between passwords 2 AND 3 compared to password 1.
