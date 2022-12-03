@@ -1,7 +1,0 @@
-----------Completion Checks----------
-Name     |     Status      |     Time
--------------------------------------
-nolawi          ✅               2027
-ryan-alumkal          ✅               1028
-slate2          ✅               106
-slate          ✅               4029
