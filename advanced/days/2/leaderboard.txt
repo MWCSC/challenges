@@ -1,4 +1,5 @@
 ----------Completion Checks----------
 Name     |     Status      |     Time
 -------------------------------------
-slate          ✅               273
+anthonytoyco          ❌               26
+ozenr          ✅               23
