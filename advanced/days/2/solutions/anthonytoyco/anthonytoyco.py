@@ -1,5 +1,5 @@
 file = open(
-    "/Users/AnthonyToyco/Documents/challenges/advanced/days/2/input.txt", "r"
+    "input.txt", "r"
 ).readlines()
 
 h_positions = []
