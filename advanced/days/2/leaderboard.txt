@@ -1,5 +1,5 @@
 ----------Completion Checks----------
 Name     |     Status      |     Time
 -------------------------------------
-anthonytoyco          ❌               26
-ozenr          ✅               23
+anthonytoyco          ✅               23
+ozenr          ✅               24
