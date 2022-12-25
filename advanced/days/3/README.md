@@ -29,7 +29,7 @@ Using a simple set of instructions, reveal the encrypted message.
 
 ## Value:
 
-``*U22|% ! 18|_U^% !14|$ 13|%17|_18|25| #*17|_E19|19|_13|!19``
+``*U22|% ! 18|_U^% !14|$ 13|%17|_18|25| #*17|_E19|19|_13|!19|``
 
 ## Expected Output Format:
 
