@@ -1,0 +1,27 @@
+FILE = open("input.txt", "r").readlines()
+
+
+hpos = []
+for line in FILE:
+    hpos.append(line.find("h"))
+
+
+sum_hpos = 0
+for i in hpos:
+    sum_hpos += i
+
+
+values = []
+for line in range(len(FILE)):
+    values.append(FILE[line][hpos[line] + 1])
+
+int_values = "".join(values)
+
+
+product_values = 1
+for i in int_values:
+    product_values *= int(i)
+
+print(sum_hpos * product_values)
+           
+           
