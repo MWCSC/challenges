@@ -1,9 +1,9 @@
 ----------Completion Checks----------
 Name     |     Status      |     Time
 -------------------------------------
-AquaDummy          ✅               24
-ashvinni          ❌               104
-noah          ✅               23
-anthonytoyco          ✅               24
-jasmine          ✅               23
-ozenr          ✅               23
+AquaDummy          ✅               23
+ashvinni          ✅               22
+noah          ✅               22
+anthonytoyco          ✅               22
+jasmine          ✅               21
+ozenr          ✅               22

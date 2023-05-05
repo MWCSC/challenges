@@ -2,4 +2,4 @@
 Name     |     Status      |     Time
 -------------------------------------
 anthonytoyco          ✅               23
-ozenr          ✅               24
+ozenr          ✅               23
