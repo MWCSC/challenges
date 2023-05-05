@@ -7,5 +7,5 @@ hypotenuse = int(math.sqrt((measure_1**2) + (measure_2**2)))
 perimeter = measure_1 + measure_2 + hypotenuse
 area = (measure_1 * measure_2) / 2
 # Output
+print(int(area))
 print(perimeter)
-print(area)

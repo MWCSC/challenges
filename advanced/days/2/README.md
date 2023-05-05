@@ -12,7 +12,7 @@ The intelligence team has found a pattern in their behaviour, as reported by our
 
 ### Mission
 
-In each line of input, find the letter 'h'. Note its position in the file, and the NUMBER that falls after it. Print out the SUM of all the positions of the letter age, DIVIDED by the PRODUCT of all the numbers that fall AFTER the letter 'h'.
+In each line of input, find the letter 'h'. Note its position in the file, and the NUMBER that falls after it. Print out the SUM of all the positions of the letter 'h', MULTIPLIED by the PRODUCT of all the numbers that fall AFTER the letter 'h'.
 
 ### Mission Resources
 
@@ -23,7 +23,7 @@ In each line of input, find the letter 'h'. Note its position in the file, and t
 ### Information:
 
 - You MUST import the input file to access the input, do not copy the input into your program directly
-- The number you are looking for is found by adding all the positions of the letter 'h' in every line, divided by the product of each number after the letter 'h' in each line
+- The number you are looking for is found by adding all the positions of the letter 'h' in every line, multiplied by the product of each number after the letter 'h' in each line  
 - There is only one h per line
 - There is only one number per line
 

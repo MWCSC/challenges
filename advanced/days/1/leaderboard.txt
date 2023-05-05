@@ -2,7 +2,8 @@
 Name     |     Status      |     Time
 -------------------------------------
 AquaDummy          ✅               24
-ashvinni          ❌               101
-noah          ✅               25
+ashvinni          ❌               104
+noah          ✅               23
 anthonytoyco          ✅               24
-jasmine          ✅               24
+jasmine          ✅               23
+ozenr          ✅               23
