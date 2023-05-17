@@ -1,13 +1,13 @@
 ----------Completion Checks----------
 Name     |     Status      |     Time
 -------------------------------------
-AquaDummy          ❌               22
-Ashvinni          ❌               21
-Daniel_Chu          ❌               22
-RhysssPuffsss          ❌               21
-anthonytoyco          ✅               22
-jasmine          ✅               22
-noah          ❌               23
-ozenr          ✅               22
-plooof          ❌               21
-winson          ❌               21
+AquaDummy          ❌               26
+Ashvinni          ✅               27
+Daniel_Chu          ❌               29
+RhysssPuffsss          ❌               27
+anthonytoyco          ✅               27
+jasmine          ✅               33
+noah          ❌               27
+ozenr          ✅               31
+plooof          ❌               28
+winson          ❌               26
