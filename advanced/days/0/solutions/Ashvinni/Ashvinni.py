@@ -8,4 +8,4 @@ c = math.sqrt((b * b) + (h * h))
 perimeter = b + h + c
 
 print(int(area))
-print(perimeter)
+print(int(perimeter))
