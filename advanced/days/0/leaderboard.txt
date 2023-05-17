@@ -2,12 +2,12 @@
 Name     |     Status      |     Time
 -------------------------------------
 AquaDummy          ❌               22
-Ashvinni          ❌               22
-Daniel_Chu          ❌               23
-RhysssPuffsss          ❌               23
+Ashvinni          ❌               21
+Daniel_Chu          ❌               22
+RhysssPuffsss          ❌               21
 anthonytoyco          ✅               22
 jasmine          ✅               22
-noah          ❌               21
+noah          ❌               23
 ozenr          ✅               22
-plooof          ❌               23
-winson          ❌               22
+plooof          ❌               21
+winson          ❌               21
