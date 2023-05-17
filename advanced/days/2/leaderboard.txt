@@ -1,6 +1,6 @@
 ----------Completion Checks----------
 Name     |     Status      |     Time
 -------------------------------------
-anthonytoyco          ✅               27
-ashvinni          ✅               32
-ozenr          ✅               27
+anthonytoyco          ✅               22
+ashvinni          ✅               22
+ozenr          ✅               23
