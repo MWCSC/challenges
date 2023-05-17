@@ -7,5 +7,5 @@ area = (b * h) / 2
 c = math.sqrt((b * b) + (h * h))
 perimeter = b + h + c
 
-print(str(area))
-print(str(perimeter))
+print(int(area))
+print(perimeter)
